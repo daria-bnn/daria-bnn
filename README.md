@@ -1,12 +1,13 @@
-# Hi! I'm Daria 👋
+# Hi, I'm Daria 👋
 
-## I am a frontend developer and young ambitious and incredibly motivated girl!
+## I am a frontend developer, young ambitious and incredibly motivated!
 
 - 🔭 I’m currently learning everything 🤣
 - ⚡ 2022 Goals: Learn more about React and Node.js
 - 🌱 Fun fact: I love to draw and take photos
 
 ### Technologies:
+
 #### Frontend
 ``` bash
 Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
@@ -24,7 +25,7 @@ Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
  - VS Code
 ```
 
-### Framework
+#### Framework
 ``` bash
 - Material UI (MUI)
 - React Hook Form
