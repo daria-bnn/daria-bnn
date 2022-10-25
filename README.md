@@ -11,7 +11,9 @@ a really good specialist in field of transport modelling:)
 ```
 
 ### Connect with me
-[<img align="left" alt="linkedin" width="22px" src="https://e7.pngegg.com/pngimages/689/232/png-clipart-youtube-linkedin-ferrum-college-business-about-me-youtube-text-logo.png" />]
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools
 
