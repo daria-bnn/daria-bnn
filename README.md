@@ -16,6 +16,8 @@ Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
 #### Tools and skills:
 ``` bash
  - SPA
+ - Material UI (MUI)
+ - React Hook Form
  - Webpack
  - Storybook
  - Prettier, ESLint, Stylint
@@ -23,12 +25,6 @@ Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
  - Figma
  - Postman
  - VS Code
-```
-
-#### Framework
-``` bash
-- Material UI (MUI)
-- React Hook Form
 ```
 
 #### Testing
