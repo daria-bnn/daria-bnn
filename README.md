@@ -1,16 +1,23 @@
 ### Hi there 👋
+I`m Daria Bannaia from Turkey, a young ambitious and incredibly motivated girl!
 
-<!--
-**daria-bnn/daria-bnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+❗ I am a python development with skills 
+to be a backend and frontend developer.
 
-Here are some ideas to get you started:
+🚥 At the same time, I have good experience in managing teams in the field of transport 
+modeling and development of transport schemes, 
+a really good specialist in field of transport modelling:)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+[<img align="left" alt="linkedin" width="22px" src="https://e7.pngegg.com/pngimages/689/232/png-clipart-youtube-linkedin-ferrum-college-business-about-me-youtube-text-logo.png" />]
+
+### Languages and Tools
+
+
+![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almazpractice&layout=compact)
+
+> [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alm1107)
+
+> [![codewars](https://www.codewars.com/users/almazgimaev/badges/small)](https://www.codewars.com/users/almazgimaev)
