@@ -34,7 +34,7 @@ Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
 ```
 
 ### Connect with me
-[![linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/daria-bannaia-97822a253/)
+[![linkedin](./img/linkedin.svg)](www.linkedin.com/in/daria-bnn)
 &nbsp;
 [![telegram](./img/telegram.svg)](https://t.me/dari_bnnn)
 
