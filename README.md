@@ -40,7 +40,6 @@ Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
 
 ### Languages and Tools
 
-![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria-bnn&layout=compact&theme=nord)
 <br />
 ![Stats](https://github-readme-stats.vercel.app/api?username=daria-bnn&show_icons=true&theme=nord)
 
