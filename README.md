@@ -39,7 +39,7 @@ Javascript, React, Redux, Redux Toolkit, Typescript, HTML, CSS, Sass, SCSS
 [![telegram](./img/telegram.svg)](https://t.me/dari_bnnn)
 
 ### Languages and Tools
-
+![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daria-bnn&layout=compact&theme=nord)
 <br />
 ![Stats](https://github-readme-stats.vercel.app/api?username=daria-bnn&show_icons=true&theme=nord)
 
