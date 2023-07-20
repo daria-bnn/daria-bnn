@@ -3,7 +3,7 @@
 ## I am a frontend developer, young ambitious and incredibly motivated!
 
 - 🔭 I’m currently learning everything 🤣
-- ⚡ 2022 Goals: Learn more about React and Node.js
+- ⚡ 2023 Goals: Learn more about React and Node.js
 - 🌱 Fun fact: I love to draw and take photos
 
 ### Technologies:
